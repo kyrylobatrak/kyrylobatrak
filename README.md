@@ -38,5 +38,7 @@
 <hr>
 
 <div align="center">
-  <p><i>Let's code something awesome!</i></p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirabatrak@gmail.com)
+  
 </div>
