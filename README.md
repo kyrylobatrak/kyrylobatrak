@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kyrylo Batrak
 
-### Software Engineering Student • Math Enthusiast • C++ & Python Developer
+### Computer Mathematics Student @ KNU • C++ & Python Developer • Math Enthusiast
 
 <hr>
 
@@ -10,11 +10,11 @@
 
 ### 📝 About Me
 
-* 🎓 **Education:** Focus on Computer Mathematics, Software Architecture, and Abstract Algebra.
-* 🔭 **Current Focus:** Deep diving into **Algorithms & Data Structures**, low-level memory management, and high-performance computing.
-* 🧠 **Mathematical Arsenal:** I bridge the gap between pure mathematics and code. My expertise includes **Linear Algebra, Number Theory, Finite Fields, Discrete & Concrete Mathematics, and Combinatorics**. This strong analytical foundation allows me to approach complex algorithmic challenges, cryptography concepts, and graph theory with rigorous and optimized logic.
-* 🌱 **Deepening Knowledge in:** High-performance **C++**, modern **Python** backends, and OOP design patterns.
-* 🇬🇧 **Goals:** Actively improving technical English and communication skills.
+* 🎓 **Education:** 2nd-year Computer Mathematics student at Taras Shevchenko National University of Kyiv (KNU). Passionate about Software Architecture and Abstract Algebra.
+* 🔭 **Current Focus:** Deep diving into **Algorithms & Data Structures**, low-level memory management in C/C++, and high-performance computing.
+* 🧠 **Mathematical Arsenal:** I bridge the gap between pure mathematics and code. My expertise includes **Linear Algebra, Number Theory, Finite Fields (Galois Fields), Discrete Mathematics, and Combinatorics**. This strong analytical foundation empowers me to tackle complex algorithmic challenges, cryptography concepts, and graph theory with rigorous and optimized logic.
+* 🌱 **Currently Exploring:** Advanced **C++** (STL, RAII), modern **Python** backends, and mastering OOP design patterns.
+* 🇬🇧 **Goals:** Actively refining my technical English and professional communication skills.
 * 📫 **Reach me:** [kirabatrak@gmail.com](mailto:kirabatrak@gmail.com)
 
 <hr>
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-batrak-0b8749361/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrylo-batrak)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirabatrak@gmail.com)
   
 </div>
