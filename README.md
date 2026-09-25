@@ -34,4 +34,5 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat&logo=postgresql&logoColor=white)
-![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0782C1?style=flat&logo=Octave&logoColo
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0782C1?style=flat&logo=Octave&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
